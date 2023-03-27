@@ -1,4 +1,4 @@
-SQL project to analyze online music app data
+SQL project to analyse online music app data
 
 Database and Tools <br>
 MySQL
